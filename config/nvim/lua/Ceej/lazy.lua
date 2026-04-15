@@ -25,4 +25,14 @@ vim.g.maplocalleader = " "
 require("lazy").setup({
 	{ import = "Ceej.plugins" },
 	{ import = "Ceej.plugins.lsp" },
+	{
+		"IogaMaster/neocord",
+		event = "VeryLazy",
+		opts = {
+			logo = "auto",
+			editing_text = "Editing %s",
+			workspace_text = "Working on %s",
+			logo_tooltip = "MeowVim",
+		},
+	},
 })
