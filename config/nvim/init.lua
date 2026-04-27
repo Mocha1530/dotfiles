@@ -1,3 +1,3 @@
 -- init.lua
-require("Ceej.core")
-require("Ceej.lazy")
+require("yh.core")
+require("yh.lazy")
