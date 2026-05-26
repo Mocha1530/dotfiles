@@ -1,4 +1,4 @@
--- /Ceej/lazy.lua
+-- /yh/lazy.lua
 
 -- Bootstrap lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
