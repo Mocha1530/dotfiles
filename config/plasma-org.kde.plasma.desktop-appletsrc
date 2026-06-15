@@ -143,17 +143,17 @@ immutability=1
 plugin=org.kde.plasma.panelspacer
 
 [Containments][23][General]
-AppletOrder=24;25;26;27;28;38;39
+AppletOrder=24;25;26;45;27;28;38;39
 
 [Containments][4][Wallpaper][org.kde.image][General]
 Image=/usr/share/wallpapers/cachyos-wallpapers/north.png
 PreviewImage=/usr/share/wallpapers/cachyos-wallpapers/north.png
 SlidePaths=/usr/share/wallpapers/
 
-[Containments][43]
+[Containments][46]
 ItemGeometries-1366x768=
 ItemGeometriesHorizontal=
-activityId=df846077-65ac-4ca3-8723-1dea932f1ed5
+activityId=f1459b69-3468-4645-84bf-d12b92479324
 formfactor=0
 immutability=1
 lastScreen=0
@@ -161,22 +161,12 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][43][ConfigDialog]
-DialogHeight=630
-DialogWidth=810
-
-[Containments][43][General]
-changedPositions={"desktop:/nvim.desktop":["1366x768","1","0"]}
-lastResolution=1366x768
-positions={"1366x768":["2","12","desktop:/nvim.desktop","1","0","desktop:/org.kde.konsole.desktop","0","1","desktop:/trash:⁄.desktop","0","0"]}
-sortMode=-1
-
-[Containments][43][Wallpaper][org.kde.image][General]
+[Containments][46][Wallpaper][org.kde.image][General]
 Blur=true
 FillMode=1
-Image=file:///home/liveuser/wallpapers/Han Sooyoung from Omniscient Readers Viewpoint.jpeg
+Image=file:///home/liveuser/Pictures/wallpapers/9397289.jpg
 SlidePaths=/usr/share/wallpapers/
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/org.kde.konsole.desktop,0,df846077-65ac-4ca3-8723-1dea932f1ed5,desktop:/nvim.desktop,0,df846077-65ac-4ca3-8723-1dea932f1ed5,desktop:/trash:⁄.desktop,0,df846077-65ac-4ca3-8723-1dea932f1ed5
+screenMapping=desktop:/trash:⁄.desktop,0,df846077-65ac-4ca3-8723-1dea932f1ed5,desktop:/nvim.desktop,0,df846077-65ac-4ca3-8723-1dea932f1ed5,desktop:/org.kde.konsole.desktop,0,df846077-65ac-4ca3-8723-1dea932f1ed5

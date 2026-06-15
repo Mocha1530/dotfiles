@@ -1,0 +1,16 @@
+[Desktops]
+Id_1=e6cd892f-ae04-49c6-880d-73c6f8035847
+Number=1
+Rows=1
+
+[Tiling][e6cd892f-ae04-49c6-880d-73c6f8035847][cbe46e25-a0d1-4547-8097-dc94823a36e0]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1
+
+[org.kde.kdecoration2]
+NoPlugin=false
+library=org.kde.kwin.aurorae.v2
+theme=__aurorae__svg__Layan
